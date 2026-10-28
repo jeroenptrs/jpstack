@@ -7,3 +7,4 @@ Each skill lives in `skills/<name>/SKILL.md`.
 ## Skills
 
 - `writing-for-devs`: writing guide for agents that write content for developers.
+- `sync-with-trunk`: rebase on a trunk branch, fast-forward it, and preview deploy. Triggered by "Stay in sync with trunk {branchName}".
