@@ -42,7 +42,8 @@ bots or reviewers, and written explanations used before resolving or
 dismissing feedback. Do not add it to PR descriptions, commit messages, or text
 the user explicitly asked to post verbatim without attribution.
 
-Write the comment itself in a direct style:
+Write the comment itself in a direct style. Follow the `writing-for-devs`
+skill for structure and wording, and keep these rules on top:
 
 - Lead with the conclusion.
 - Cite the relevant code, behavior, check, or reproduction.
