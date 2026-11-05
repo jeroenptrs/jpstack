@@ -9,6 +9,7 @@ Each skill lives in `skills/<name>/SKILL.md`.
 - `writing-for-devs`: writing guide for agents that write content for developers.
 - `writing-for-ui`: writing guide for text inside a web app UI, such as labels, errors, toasts, and empty states. Not for marketing copy.
 - `sync-with-trunk`: rebase on a trunk branch, fast-forward it, and preview deploy. Triggered by "Stay in sync with trunk {branchName}".
+- `sync-with-main`: one development branch per conversation, rebased on `main` and landed through a squash-merged PR or MR. Triggered by "Stay in sync with main".
 - `working-with-trickroom`: the Trickroom design-session workflow, from setup through review rounds to design-to-code handoff.
 - `revive`: bring an old PR or MR up to date, with a REVIVE, REWORK, or CLOSE disposition before any push.
 - `leaving-pr-comments`: attribution callout and style for comments posted on GitHub or GitLab on the user's behalf.
