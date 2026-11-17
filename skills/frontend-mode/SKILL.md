@@ -16,6 +16,8 @@ load both at the start:
 
 - `working-with-trickroom` for every design step. Frontend mode always uses
   Trickroom, because the approved boards are the spec for the implementation.
+- `ui-design-guidelines` for every board and every view, and
+  `writing-for-ui` for every string on them.
 - `writing-for-devs` for every reply, brief, board name, and handoff.
 
 When the user says to stay in sync with a trunk branch, also load

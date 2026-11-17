@@ -8,6 +8,7 @@ Each skill lives in `skills/<name>/SKILL.md`.
 
 - `writing-for-devs`: writing guide for agents that write content for developers.
 - `writing-for-ui`: writing guide for text inside a web app UI, such as labels, errors, toasts, and empty states. Not for marketing copy.
+- `ui-design-guidelines`: design principles and process for web app UI, such as what to show, hierarchy, surfaces, lists, chips, sheets, states, and where settings live. Pairs with `writing-for-ui`, which owns the strings, and defers to each project's own conventions.
 - `sync-with-trunk`: rebase on a trunk branch, fast-forward it, and preview deploy. Triggered by "Stay in sync with trunk {branchName}".
 - `sync-with-main`: one development branch per conversation, rebased on `main` and landed through a squash-merged PR or MR. Triggered by "Stay in sync with main".
 - `working-with-trickroom`: the Trickroom design-session workflow, from setup through review rounds to design-to-code handoff.

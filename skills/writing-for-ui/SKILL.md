@@ -8,7 +8,9 @@ description: "Writing guide for text inside a web app UI: labels, buttons, toolt
 Text in a web app exists to help someone use it.
 Every string competes with the data and controls around it, so most UI writing is deciding what not to write.
 
-Follow `writing-for-devs` for sentence style.
+Follow `writing-for-devs` for sentence style. Load `ui-design-guidelines` for
+the layout, components, and states around the text; this skill owns only the
+strings.
 For on-screen strings, this skill wins where the two conflict. Labels and short states can be fragments: "All logs loaded" and "No stack yet" are correct.
 
 ## Follow the product first
