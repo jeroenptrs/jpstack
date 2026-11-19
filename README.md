@@ -6,6 +6,7 @@ Each skill lives in `skills/<name>/SKILL.md`.
 
 ## Skills
 
+- `jeroen-mode`: Jeroen's judgement on architecture, frontend implementation, and design, and how an orchestrator briefs and checks subagents. Triggered by `/jeroen-mode`.
 - `writing-for-devs`: writing guide for agents that write content for developers.
 - `writing-for-ui`: writing guide for text inside a web app UI, such as labels, errors, toasts, and empty states. Not for marketing copy.
 - `ui-design-guidelines`: design principles and process for web app UI, such as what to show, hierarchy, surfaces, lists, chips, sheets, states, and where settings live. Pairs with `writing-for-ui`, which owns the strings, and defers to each project's own conventions.
